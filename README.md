@@ -5,3 +5,4 @@ It depends on the file, anyway for all the codes it's necesary to install:
 * python-barcode
 * qrcode
 * cv2
+* pyzbar 
